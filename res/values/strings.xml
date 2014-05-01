@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MB_APP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="edit_message">Entrer un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="title_activity_main">Activité principale</string>
+    <string name="title_activity_display_message">Mon Message</string>
+
+</resources>
